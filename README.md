@@ -1,4 +1,4 @@
-# 369 Collective
+# VinylShop
 Single page website for a vinyl-shop.
 
 ## Techniques 
